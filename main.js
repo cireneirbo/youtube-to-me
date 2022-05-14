@@ -5,7 +5,7 @@ const input = require('readline-sync');
 //* Initialize Clients *//
 const YD = new YoutubeMp3Downloader({
   ffmpegPath: ffmpeg,
-  outputPath: './',
+  outputPath: '../../../Downloads/',
   youtubeVideoQuality: 'lowestaudio',
   queueParallelism: 2,
   progressTimeout: 5000,
@@ -46,4 +46,5 @@ YD.on("error", function(error) {
 YD.on('finished', async (err, video) => {
   const videoFileName = video.file;
   console.log(`Downloaded ${videoFileName}`);
+  console.log("Check for the mp3 in your Downloads folder!")
 });
