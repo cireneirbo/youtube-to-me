@@ -21,10 +21,10 @@ Command Line Interfaces are terminals like Command Prompt and Bash.
 * Open Command Prompt and check where you are with `dir` (which means 'directory'). This will list the contents of the currect directory your session is in.
 * Now you need to navigate to the place you have `youtube-to-me` cloned/downloaded/saved. To get there, type `cd Documents` (substitute out Documents for whichever forlder you can see listed that will bring you closer to where `youtube-to-me` is located. Keep navigating towards it until you `cd` (change directory) into its top-level folder. 
 * Now when you type `dir` you should see all of the files that are listed above in the project repo that you're probably reading this from. Good, we're ready to run it.
-* Proceed to Step 3 in the Getting started section above.
+* Proceed to Step 3 in the [Getting Started](https://github.com/cireneirbo/youtube-to-me/blob/main/README.md#getting-started) section above.
 
 ### Bash
 * Open Bash and check where you are with `ls` (which means 'list'). This will list the contents of the currect directory your session is in.
 * Now you need to navigate to the place you have `youtube-to-me` cloned/downloaded/saved. To get there, type `cd Documents` (substitute out Documents for whichever forlder you can see listed that will bring you closer to where `youtube-to-me` is located. Keep navigating towards it until you `cd` (change directory) into its top-level folder. 
 * Now when you type `ls` you should see all of the files that are listed above in the project repo that you're probably reading this from. Good, we're ready to run it.
-* Proceed to Step 3 in the Getting started section above.
+* Proceed to Step 3 in the [Getting Started](https://github.com/cireneirbo/youtube-to-me/blob/main/README.md#getting-started) section above.
