@@ -4,7 +4,7 @@ A CLI that downloads specified YouTube videos to my computer. All videos will be
 ## Getting started
 1. Clone or fork the project.
 2. Navigate to the project's directory in the terminal / open the project in your IDE.
-3. Have Node installed on your computer. It's quick and not intrusive. Download it here: [https://nodejs.org/en/](https://nodejs.org/en/).
+3. Have `Node` installed on your computer. It's quick and not intrusive. Download it here: [https://nodejs.org/en/](https://nodejs.org/en/).
 4. Install dependants with `npm install`.
 5. Run the command `node main.js` to start the program
 6. When prompted, add the YouTube video's link ID to the terminal input.
