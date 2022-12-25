@@ -7,10 +7,10 @@ A CLI that downloads specified YouTube videos to my computer. All videos will be
 3. Install dependants with `npm install`.
 4. Run the command `node main.js` to start the program
 5. When prompted, add the YouTube video's link ID to the terminal input.
-  * The video ID can be found by examining the video's url e.g.:
-  * Complete video link: `https://www.youtube.com/watch?v=daEB_50JyLM`
-  * Video ID from the above link: `daEB_50JyLM` 
-  * The video ID should be short like above. If you are trying to download a video with a really long link, it will usually have an `&` at the end of the video ID. Take the video ID between the `?v=` and `&` and it should work. An example of this is `https://www.youtube.com/watch?v=HJgdp4uhSbs&t=2770s`. With the video ID being `HJgdp4uhSbs`.
+   * The video ID can be found by examining the video's url e.g.:
+   * Complete video link: `https://www.youtube.com/watch?v=daEB_50JyLM`
+   * Video ID from the above link: `daEB_50JyLM` 
+   * The video ID should be short like above. If you are trying to download a video with a really long link, it will usually have an `&` at the end of the video ID. Take the video ID between the `?v=` and `&` and it should work. An example of this is `https://www.youtube.com/watch?v=HJgdp4uhSbs&t=2770s`. With the video ID being `HJgdp4uhSbs`.
 
 
 ## Help With Using Command Line Interface 
